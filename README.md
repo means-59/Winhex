@@ -222,4 +222,4 @@ WinHex is offered as a **full free version** with all features and updates inclu
 Don’t wait any longer! Experience the power of WinHex today with a **safe download** and unlock all features for your hexadecimal editing needs.
 
 ---
-**Last updated:** 2026-10-18 23:45:49 UTC
+**Last updated:** 2026-10-19 02:08:43 UTC
